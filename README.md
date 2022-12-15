@@ -3,8 +3,6 @@
 
 -   By Julien Barbier
 
-![](https://pbs.twimg.com/media/CFYYWy6UEAE9Ow-.png)
-
 Resources
 ---------
 
